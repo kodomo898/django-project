@@ -1,2 +1,2 @@
 from whitenoise.django import DjangoWhiteNoise
-application = DjangoWhiteNoise(urls)
+application = DjangoWhiteNoise(wsgi)

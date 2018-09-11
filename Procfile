@@ -1,1 +1,1 @@
-web: gunicorn mysite.urls
+web: python3 manage.py runserver
